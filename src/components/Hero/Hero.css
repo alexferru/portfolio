@@ -1,0 +1,12 @@
+#hero {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #222;
+  color: #fff;
+  overflow: hidden;
+  z-index: -2;
+}
